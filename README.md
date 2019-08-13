@@ -1,4 +1,4 @@
-     Quality-Control-with-R
+# **Quality-Control-with-R**
 ##### Ch3 
 * Cause-and-effect diagram 
 * Cheek Sheet
